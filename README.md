@@ -1,14 +1,10 @@
-![](./look.jpg)
-# 534rchCVE
 
-```ascii
-███████╗██████╗ ░█████╗ ██████╗  ██████╗██╗  ██╗ ██████╗██╗   ██╗███████╗
-██╔════╝╚════██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║██╔════╝
-███████╗ █████╔╝███████║██████╔╝██║     ███████║██║     ██║   ██║█████╗  
-╚════██║ ╚═══██╗██╔══██║██╔══██╗██║     ██╔══██║██║     ╚██╗ ██╔╝██╔══╝  
-███████║██████╔╝██║  ██║██║  ██║╚██████╗██║  ██║╚██████╗ ╚████╔╝ ███████╗
-╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═══╝  ╚══════╝
-```
+![](./look.jpg)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+# 534rchCVE
 
 ## About
 534rchCVE is a powerful command-line tool for searching and displaying vulnerability information using the Vulners API. It provides a user-friendly interface with color-coded output and formatted tables for easy readability.
