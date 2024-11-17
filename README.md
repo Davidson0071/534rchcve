@@ -12,7 +12,7 @@
 ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═══╝  ╚══════╝
 ```
 
-![534rchCVE](./look.jpg)
+![Project Banner](./look.jpg)
 ## About
 534rchCVE is a powerful command-line tool for searching and displaying vulnerability information using the Vulners API. It provides a user-friendly interface with color-coded output and formatted tables for easy readability.
 
