@@ -1,5 +1,4 @@
-# 534rchcve
-534rchCVE is a powerful command-line tool for searching vulnerability information
+
 
 
 # 534rchCVE
@@ -13,17 +12,16 @@
 ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═══╝  ╚══════╝
 ```
 
+![534rchCVE](./look.jpg)
 ## About
 534rchCVE is a powerful command-line tool for searching and displaying vulnerability information using the Vulners API. It provides a user-friendly interface with color-coded output and formatted tables for easy readability.
 
 ## Features
-- 🔑 Secure API key management
-- 🎨 Color-coded output for better visibility
+- 🔑 Up to Date with latest exploits ✅️
+- ♾️ Provides link to exploit 
 - 📊 Formatted tables using PrettyTable
-- 🎯 CVSS score highlighting
 - 🔄 Multiple search capability in one session
 - ⚡ Fast and efficient searching
-- 🛡️ Error handling and input validation
 
 ## Installation
 
@@ -75,8 +73,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **D4X3D**
 - GitHub: [Davidson0071](https://github.com/Davidson0071)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Kindly leave a Star 🌟  for effort 👌
 
 ## Disclaimer
 This tool is for educational and research purposes only. Users are responsible for complying with applicable laws and regulations. hack responsibly
