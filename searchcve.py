@@ -17,7 +17,7 @@ def print_banner():
     """
     print(colored(banner, 'cyan'))
     print(colored("Developed by: ", 'white') + colored("D4X3D", 'green'))
-    print(colored("GitHub: ", 'white') + colored("https://github.com/Davidson0071", 'blue'))
+    print(colored("GitHub: ", 'white') + colored("https://github.com/d4x3d", 'blue'))
     print("\n" + "="*80 + "\n")
 
 def load_api_key():
